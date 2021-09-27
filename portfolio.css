@@ -1,0 +1,135 @@
+body{
+    text-align: center;
+    background-color: lightpink;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+
+img{
+  width:300;
+  height:300;
+    border-radius: 50%;
+    
+}
+#myname{
+   font-family: 'Courgette', cursive;
+}
+#welcome{
+     padding:70px;
+    text-align:center;
+    background-color: lightgreen;
+    
+}
+h1{
+  
+  font-size:25px;
+}
+p{
+  font-size:20px;
+  color:purple;
+    
+}
+h2{
+  font-size:23px;
+  color:mediumvioletred;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+    margin-bottom:red; 
+}
+#bio{
+    padding:20px;
+    font-size:42;
+    background-color: cornflowerblue;
+}
+.menu{
+   position:fixed;
+    top:0px;
+    z-index:10;
+    cursor:pointer;
+    background:white;
+    width:100%;
+    margin-top: 0px;
+}
+.menu a{
+    
+    color:crimson;
+}
+
+
+.link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+    float:left;
+    font-size:20px;
+}
+   .link:hover{
+    font-size:25px;
+       text-decoration: underline;
+}
+
+#Mywork a, #References a{
+    font-size: :30px;
+}
+#References{
+    background-color: lightcoral;
+}
+#Mywork{
+    background-color: mediumorchid;
+}
+
+.button {
+  background-color: mediumpurple;
+  border-radius: 5px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  height:45px;
+}
+a
+{
+  text-decoration:none;
+}
+.article:hover{
+  color: orangered;
+  font-size: 40px;  
+}
+.inspiration {
+    background-color: orange;
+    padding-top: 20px;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+    
+}
+#contact{
+    background-color: firebrick;
+}
+#contact a{
+    color:white;
+}
+.jj{
+    font-size:20px;
+}
+h3{
+    font-size:20px;
+}
+
